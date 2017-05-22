@@ -1,0 +1,83 @@
+.welcome {
+  width: auto;
+  padding: 3px;
+  margin: 3px;
+  border: 1px solid #a3bfb1;
+  background-color: #f9f9f9;
+}
+
+img.leftImg {
+  float: left;
+  padding: 5px;
+}
+
+img.rightImg {
+  float:right;
+  padding: 5px;
+}
+
+.greenBanner {
+  background-color: #cef2e0;
+  border: 1px solid #a3bfb1;
+  padding:0.2em 0.4em;
+  margin: 3px;
+}
+
+.greenContainer {
+  background-color: #f5fffa;
+  border: 1px solid #a3bfb1;
+}
+
+.blueContainer {
+  background-color: #f5faff;
+  border: 1px solid #a3bfb1;
+}
+
+.blueBanner {
+  background-color: #cedff2;
+  border: 1px solid #a3bfb1;
+  padding:0.2em 0.4em;
+  margin: 3px;
+}
+
+.pinkContainer {
+  background-color: #fff5fa;
+  border: 1px solid #a3bfb1;
+  padding:0.2em 0.4em;
+  margin: 3px;
+}
+
+.pinkBanner {
+  background-color: #f2cedd;
+  border: 1px solid #a3bfb1;
+  padding:0.2em 0.4em;
+  margin: 3px;
+}
+
+.purpleContainer {
+  display: block;
+  background-color: #faf5ff;
+  border: 1px solid #ddcef2;
+  padding:0.2em 0.4em;
+  margin: 3px;
+  height: 370px;
+}
+
+.purpleBanner {
+  background-color: #ddcef2;
+  border: 1px solid #afa3bf;
+  padding:0.2em 0.4em;
+  margin: 3px;
+}
+
+div.padded {
+  padding-top: 80px;
+}
+
+p.captionText {
+  font-size: 11px;
+}
+
+p.rightAlign {
+  text-align: right;
+}
